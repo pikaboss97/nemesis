@@ -1,0 +1,7 @@
+{
+  "name": "praga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
